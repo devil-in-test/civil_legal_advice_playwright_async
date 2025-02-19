@@ -70,8 +70,8 @@ Scenario Outline: Yes I'm  a home owner at risk
 
 		     |Q1  |Q2        |Q3   |Q4       |Q5 |Q6        |Q7 |Q8        |Q9 |Q10       |Q11|eligibility  |
 		     |0   |per week  |0   |per week  |0  |per week  |0  |per week  |0  |per week  |0  |eligible     |
-#		     |100 |per week  |0   |per week  |0  |per week  |0  |per week  |0  |per week  |0  |eligible     |
-#		     |100 |per week  |100 |per week  |0  |per week  |0  |per week  |0  |per week  |0  |not eligible |
+		     |100 |per week  |0   |per week  |0  |per week  |0  |per week  |0  |per week  |0  |eligible     |
+		     |100 |per week  |100 |per week  |0  |per week  |0  |per week  |0  |per week  |0  |not eligible |
 	     
 
           
